@@ -31,3 +31,7 @@
 - Gazebo Harmonic 8.10.0
 - OpenCV-CUDA 4.10.0
 - QGroundControl 5.0.5
+-----
+# 展示
+> 该视频使用Gazebo11仿真，flight.py控制飞行，和项目提供的使用方法有所出入，仅供参考。
+[![仿真演示](https://i2.hdslb.com/bfs/archive/1c5307d020e6c1527b8303332321b219c04db52a.jpg@308w_174h)](https://www.bilibili.com/video/BV1Ascrz3ECj/)
